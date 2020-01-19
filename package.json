@@ -1,0 +1,16 @@
+{
+  "name": "@alien.sh/signals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": "Pouya Eghbali",
+  "license": "Apache-2.0",
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^2.14.0"
+  }
+}
